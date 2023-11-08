@@ -1,0 +1,10 @@
+crop_area:
+- 0.06209453197405004
+- 1.0
+- 0.310578426263679
+- 0.9103699843668578
+guidance_scale: 4
+keyframe_index: 59
+prompt: a running audi car
+sd_mode: inpaint
+strength: 0.3

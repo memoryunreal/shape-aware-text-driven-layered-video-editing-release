@@ -5,5 +5,5 @@ wget https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_
 pip install basicsr
 pipt install facexlib
 pip install gfpgan
-pip install -r requirements
+pip install -r requirements.txt
 python setup.py develop
